@@ -1,8 +1,5 @@
-* {
-  border: 1px solid red;
-}
 .appForm {
-  background: lightblue;
+  background: lightgray;
   height: 60%;
   width: 60%;
   margin: 0 auto;
@@ -17,10 +14,20 @@
 
 fieldset {
   width: 80%;
+  padding: 1rem;
+}
+
+fieldset > div {
   display: flex;
   justify-content: space-between;
 }
 
-.form-group {
-  width: 100%;
+button[type="submit"] {
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.form-control {
+  text-align: right;
 }

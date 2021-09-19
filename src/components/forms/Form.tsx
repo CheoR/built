@@ -108,7 +108,7 @@ export const Form = () => {
           />
         </div>
       </fieldset>
-      <button type="submit">
+      <button className="btn__submit" type="submit">
         Submit
       </button>
     </form>
