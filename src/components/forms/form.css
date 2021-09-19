@@ -1,0 +1,26 @@
+* {
+  border: 1px solid red;
+}
+.appForm {
+  background: lightblue;
+  height: 60%;
+  width: 60%;
+  margin: 0 auto;
+  padding: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+fieldset {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-group {
+  width: 100%;
+}
