@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js with typescript</code> and save to reload.
-          TAcos are great mo moo moo
+          Bakr bark bark
         </p>
         <a
           className="App-link"
