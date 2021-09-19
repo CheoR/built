@@ -1,0 +1,24 @@
+.successBlock {
+  height: 100vh;
+  padding: 2rem;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.success {
+  width: 50%;
+  border: 2px solid black;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.home {
+  background: lightgrey;
+  padding: 1rem;
+  border-radius: 15px;
+  width: 120px;
+  margin: 0 auto;
+}

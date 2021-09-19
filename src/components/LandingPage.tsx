@@ -1,7 +1,7 @@
 import React from 'react';
 import { Switch, Route, Redirect } from 'react-router';
 import { Form } from './forms/Form';
-import { Success } from './Success';
+import { Success } from './pages/Success';
 
 
 export const LandingPage = () => {
